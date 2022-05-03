@@ -8,7 +8,5 @@ public class mine {
         }
         long sum = score_client + supplement + bonus;
         System.out.println(sum);
-
-
     }
 }
